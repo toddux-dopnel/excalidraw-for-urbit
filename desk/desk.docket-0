@@ -1,10 +1,10 @@
 :~
-  title+'Excalidraw'
-  info+'Excalidraw for Urbit'
+  title+'Excalidraw for Urbit'
+  info+'Draw and store your Excalidraw diagrams in Urbit'
   color+0x3a.b09e
   version+[0 0 1]
   website+'https://urbit.org'
   license+'MIT'
-  base+'excalidraw'
+  base+'excalidraw4urbit'
   glob-ames+[~zod 0v0]
 ==

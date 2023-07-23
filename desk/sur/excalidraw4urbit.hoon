@@ -14,6 +14,6 @@
       [%jrnl list=(list entry)]
       [%logs list=(list logged)]
   ==
-+$  excalidraw  ((mop id txt) gth)
++$  excalidraw4urbit  ((mop id txt) gth)
 +$  log  ((mop @ action) lth)
 --

@@ -1,4 +1,4 @@
-/-  *excalidraw, *sole
+/-  *excalidraw4urbit, *sole
 /+  *generators
 :-  %ask
 |=  [[now=@da * bek=beak] *]
@@ -28,7 +28,7 @@ line
   %+  prompt   [%& %prompt ""]
   |=  t=tape
   ?:  =(t "\\\\\\")
-    %+  produce  %excalidraw-action
+    %+  produce  %excalidraw4urbit-action
     :+  %add
       (unm:chrono:userlib now)
     (of-wain:format (flop acc))

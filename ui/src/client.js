@@ -1,4 +1,4 @@
-const APP_NAME = 'excalidraw';
+const APP_NAME = 'excalidraw4urbit';
 
 export const deleteEntry = (id, onSuccess, onError) => {
   window.urbit.poke({

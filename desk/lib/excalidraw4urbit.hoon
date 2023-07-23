@@ -1,4 +1,4 @@
-/-  *excalidraw
+/-  *excalidraw4urbit
 |%
 ++  dejs-action
   =,  dejs:format
